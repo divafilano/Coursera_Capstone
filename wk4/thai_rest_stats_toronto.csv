@@ -1,0 +1,57 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Scarborough,Cedarbrae,4c27da423492a593158cb628,Thai One On,4,6.4,8
+Scarborough,"Birch Cliff,Cliffside West",511732bbe4b066680f965200,Jatujak,19,8.4,10
+Scarborough,"Clarks Corners,Sullivan,Tam O'Shanter",56fdaefd498e27417498764c,Kub Khao,12,6.6,11
+North York,Don Mills North,4af0bb68f964a520aade21e3,Thai One On,7,6.3,6
+East York,Woodbine Heights,4e18729fb3ad8e08699ec3bb,Little Coxwell Restaurant,19,7.1,13
+East Toronto,The Beaches,4adb78e8f964a520d82721e3,Green Basil,9,6.7,15
+East York,East Toronto,58f3a1972b98444cc96f4c53,Sala Modern Thai Kitchen & Bar,11,7.7,6
+East York,East Toronto,0,0,0,0.0,0
+East Toronto,Studio District,4b92f6ecf964a520e52a34e3,The Friendly Thai,8,7.6,10
+Central Toronto,Davisville North,4aec830ff964a52015c821e3,Lime Pan-Asian Cuisine,14,7.3,10
+Central Toronto,Davisville North,4afe0d9df964a520752d22e3,Mai Thai Restaurant,7,7.1,17
+Central Toronto,North Toronto West,4afe0d9df964a520752d22e3,Mai Thai Restaurant,7,7.1,17
+Central Toronto,Davisville,4dcda6b7e4cd130e16534f51,Thai Spicy House,7,7.0,10
+Central Toronto,Davisville,4aec830ff964a52015c821e3,Lime Pan-Asian Cuisine,14,7.3,10
+Central Toronto,Davisville,4afe0d9df964a520752d22e3,Mai Thai Restaurant,7,7.1,17
+Central Toronto,"Moore Park,Summerhill East",4b0dc067f964a5206b4f23e3,New Thai Restaurant,3,6.7,5
+Central Toronto,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",4b0dc067f964a5206b4f23e3,New Thai Restaurant,3,6.7,5
+Central Toronto,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",4ae8d996f964a520dbb221e3,Wylie's Neighbourhood Pub,8,6.0,13
+Downtown Toronto,"Cabbagetown,St. James Town",4b683ef1f964a520d66d2be3,Thai To Go,4,8.4,6
+Downtown Toronto,Church and Wellesley,57f03361498e6431043a9608,Sabai Sabai,57,8.7,19
+Downtown Toronto,"Harbourfront,Regent Park",4ada57aff964a520972121e3,Sukhothai,74,8.8,52
+Downtown Toronto,"Harbourfront,Regent Park",59cd8a18e179105e08f003c6,Sukhothai,7,7.9,1
+Downtown Toronto,"Ryerson,Garden District",4ad4c061f964a52095f720e3,Salad King,489,8.5,207
+Downtown Toronto,"Ryerson,Garden District",4ad4c060f964a5206af720e3,Bangkok Garden,30,7.5,26
+Downtown Toronto,St. James Town,50b7c53616485cd9efad60d5,Sukhothai,213,8.7,85
+Downtown Toronto,Berczy Park,50b7c53616485cd9efad60d5,Sukhothai,213,8.7,85
+Downtown Toronto,Central Bay Street,4ad4c061f964a52095f720e3,Salad King,489,8.5,207
+Downtown Toronto,Central Bay Street,4ad4c060f964a5206af720e3,Bangkok Garden,30,7.5,26
+Downtown Toronto,"Adelaide,King,Richmond",529612de11d2ab526191ccc9,Pai,634,9.3,193
+Downtown Toronto,"Adelaide,King,Richmond",4ab989ebf964a520cc7f20e3,Queen Mother Cafe,121,8.1,80
+Downtown Toronto,"Design Exchange,Toronto Dominion Centre",529612de11d2ab526191ccc9,Pai,634,9.3,193
+Downtown Toronto,"Design Exchange,Toronto Dominion Centre",50b7c53616485cd9efad60d5,Sukhothai,213,8.7,85
+Downtown Toronto,"Commerce Court,Victoria Hotel",50b7c53616485cd9efad60d5,Sukhothai,213,8.7,85
+North York,"Bedford Park,Lawrence Manor East",4bcba746fb84c9b65d5a1f3e,Satay on the Road,6,6.5,5
+Central Toronto,"The Annex,North Midtown,Yorkville",4ad4c061f964a5208ff720e3,Real Thailand Restaurant,26,7.9,19
+Downtown Toronto,"Harbord,University of Toronto",4af75739f964a5208a0822e3,"Flip, Toss & Thai",17,8.3,14
+Downtown Toronto,"Harbord,University of Toronto",4ad4c061f964a5208ff720e3,Real Thailand Restaurant,26,7.9,19
+Downtown Toronto,Stn A PO Boxes 25 The Esplanade,50b7c53616485cd9efad60d5,Sukhothai,213,8.7,85
+Downtown Toronto,"First Canadian Place,Underground city",529612de11d2ab526191ccc9,Pai,634,9.3,193
+Downtown Toronto,"First Canadian Place,Underground city",50b7c53616485cd9efad60d5,Sukhothai,213,8.7,85
+York,Caledonia-Fairbanks,4ba652aef964a520454639e3,Thai Shan Inn,4,7.0,7
+West Toronto,"Dovercourt Village,Dufferin",4e6149acb993678bb5dae95b,Thai Lime,9,8.1,10
+York,"The Junction North,Runnymede",4c082a5aa1b32d7f349895f0,Saigon Bangkok,5,6.4,2
+West Toronto,"High Park,The Junction South",4eb84896e5fa17fc87f95fed,The Thai,5,7.4,7
+West Toronto,"High Park,The Junction South",4c0d82f17189c9289124d7b6,Silk,4,6.7,3
+West Toronto,"High Park,The Junction South",4ba55633f964a52039fc38e3,The Friendly Thai,6,5.7,10
+West Toronto,"High Park,The Junction South",0,0,0,0.0,0
+West Toronto,"Parkdale,Roncesvalles",4eb84896e5fa17fc87f95fed,The Thai,5,7.4,7
+West Toronto,"Parkdale,Roncesvalles",4aff644ef964a5201b3822e3,Sues Thai food (vickys),7,6.9,10
+West Toronto,"Parkdale,Roncesvalles",4b708d6af964a52068212de3,the Friendly Thai,12,6.9,17
+West Toronto,"Runnymede,Swansea",4b3be644f964a520ee7d25e3,Simply Thai,11,7.7,8
+Queen's Park,Queen's Park,4ad4c061f964a52095f720e3,Salad King,489,8.5,207
+Mississauga,Canada Post Gateway Processing Centre,0,0,0,0.0,0
+East Toronto,Business Reply Mail Processing Centre 969 Eastern,4b92f6ecf964a520e52a34e3,The Friendly Thai,8,7.6,10
+Etobicoke,"The Kingsway,Montgomery Road,Old Mill North",4b0730c9f964a52039f922e3,Green Mango,18,7.3,20
+Etobicoke,"Kingsway Park South West,Mimico NW,The Queensway West,Royal York South West,South of Bloor",4ce86e2ef865370494b1b0c4,Mangosteens Thai Cuisine,10,7.1,14
